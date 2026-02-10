@@ -1,6 +1,6 @@
-# Sean Brown 
+# I'm Sean Brown!
 
-Hi, I’m Sean, a Master of Data Science (MDS) student at the University of British Columbia, building on a BSc in Computer Science from Simon Fraser University (2024).
+I am a Master of Data Science (MDS) student at the University of British Columbia, building on a BSc in Computer Science from Simon Fraser University (2024).
 
 I’m interested in applied machine learning and ML research, especially work that blends strong modeling with solid engineering, reproducible pipelines, and measurable impact.
 
